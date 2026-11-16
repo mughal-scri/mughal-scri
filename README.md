@@ -37,6 +37,7 @@ I learn best by building, breaking things, and debugging until they work.
 |---|---|
 | [**RubricEye**](https://github.com/mughal-scri/RubricEye) | AI-assisted exam grading platform that reads handwritten answer sheets and grades them against a rubric. |
 | [**Tabi-Planner**](https://github.com/mughal-scri/Tabi-Planner) | A travel itinerary planner for Japan, built with a classmate. |
+| [**Energy_Aware_UAV_Mission_Planner**](https://github.com/mughal-scri/Energy_Aware_UAV_Mission_Planner) | A Multi-Drone Mission planner simulation in Python |
 
 <br/>
 
