@@ -40,12 +40,11 @@ I learn best by building, breaking things, and debugging until they work.
 
 <br/>
 
-## 📊 GitHub Stats
+## 🌱 Currently
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mughal-scri&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mughal-scri&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</div>
+- 🔭 Strengthening my Python foundations for AI/ML
+- 📚 Studying core AI concepts alongside my degree
+- 🛠️ Improving my projects one commit at a time
 
 <br/>
 
