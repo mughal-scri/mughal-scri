@@ -1,48 +1,63 @@
-\<!-- Animated header -->
+<!-- Header banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abdullah%20Mughal&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=AI%20Student%20%7C%20Aspiring%20AI%20Engineer&descSize=18&descAlignY=60" width="100%" alt="Header banner" />
 
-\<p align="center">   \<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Abdullah%20Mughal&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20Intelligence%20%7C%20Exploring%20What](https://capsule-render.vercel.app/api?type=waving\&color=0:0f2027,50:203a43,100:2c5364\&height=190\&section=header\&text=Abdullah%20Mughal\&fontSize=48\&fontColor=ffffff\&animation=fadeIn\&fontAlignY=38\&desc=Building%20Intelligence%20%7C%20Exploring%20What)'s%20Possible&descAlignY=60&descSize=16" width="100%" /> \</p>
+<!-- Animated typing intro -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=600&lines=BS+Artificial+Intelligence+%40+Air+University;Building+my+foundation+in+Python+for+AI%2FML;Learning+by+building+real+projects;Curious+about+neuro-AI+%26+Brain-Computer+Interfaces" alt="Typing intro" />
+</div>
 
-\<!-- Typing animation -->
+<br/>
 
-\<p align="center">   \<a href="[https://git.io/typing-svg](https://git.io/typing-svg)">     \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+Undergraduate+%40+AIR+University;Python+%7C+Artificial+Intelligence;Exploring+Machine+Learning+%26+Neural+Networks;Interested+in+BCI+%26+Neuro-AI](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=19\&pause=1000\&color=36BCF7\&center=true\&vCenter=true\&width=600\&lines=AI+Undergraduate+%40+AIR+University;Python+%7C+Artificial+Intelligence;Exploring+Machine+Learning+%26+Neural+Networks;Interested+in+BCI+%26+Neuro-AI)" />   \</a> \</p>
+## 👋 About Me
 
-\<p align="center">   \<a href="[https://github.com/mughal-scri](https://github.com/mughal-scri)">\<img src="[https://img.shields.io/badge/GitHub-mughal--scri-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-mughal--scri-181717?style=for-the-badge\&logo=github)" />\</a>   \<img src="[https://komarev.com/ghpvc/?username=mughal-scri&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS](https://komarev.com/ghpvc/?username=mughal-scri\&style=for-the-badge\&color=blueviolet\&label=PROFILE+VIEWS)" /> \</p>
+I'm a **BS Artificial Intelligence** student at **Air University (Aerospace & Aviation Campus, Kamra)**, working towards becoming an **AI Engineer**.
 
----
+I learn best by building, breaking things, and debugging until they work.
 
-### `$ whoami`
+- 🎯 **Goal:** AI Engineer
+- 🐍 **Focus right now:** Python for AI/ML
+- 🤖 **Up next:** Agentic AI (LangChain, AutoGen)
+- 🧠 **Long-term curiosity:** Brain-Computer Interfaces and neuro-AI (signal decoding, ML)
 
-AI undergraduate at **AIR University, Pakistan**. Interested in building intelligent systems and understanding the science behind intelligence.
+<br/>
 
-- 🧠 AI / ML / Deep Learning
-- 🐍 Python & C++
-- 🔬 BCI · Neuro-AI · Human-Computer Interaction
-- ⚡ Learning by building.
+## 🛠️ Tech Stack
 
-### ⚡ Featured Projects
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-\<p align="center">   \<a href="[https://github.com/mughal-scri/RubricEye](https://github.com/mughal-scri/RubricEye)">     \<img src="[https://github-readme-stats.vercel.app/api/pin/?username=mughal-scri&repo=RubricEye&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/pin/?username=mughal-scri\&repo=RubricEye\&theme=tokyonight\&hide_border=true)" />   \</a>   \<a href="[https://github.com/mughal-scri/Energy_Aware_UAV_Mission_Planner](https://github.com/mughal-scri/Energy_Aware_UAV_Mission_Planner)">     \<img src="[https://github-readme-stats.vercel.app/api/pin/?username=mughal-scri&repo=Energy_Aware_UAV_Mission_Planner&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/pin/?username=mughal-scri\&repo=Energy_Aware_UAV_Mission_Planner\&theme=tokyonight\&hide_border=true)" />   \</a>   \<a href="[https://github.com/mughal-scri/University-Campus-Network-Cisco](https://github.com/mughal-scri/University-Campus-Network-Cisco)">     \<img src="[https://github-readme-stats.vercel.app/api/pin/?username=mughal-scri&repo=University-Campus-Network-Cisco&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/pin/?username=mughal-scri\&repo=University-Campus-Network-Cisco\&theme=tokyonight\&hide_border=true)" />   \</a>   \<a href="[https://github.com/mughal-scri/Shopping-and-Inventory-Management-System-Cpp-Fundamentals-Project](https://github.com/mughal-scri/Shopping-and-Inventory-Management-System-Cpp-Fundamentals-Project)">     \<img src="[https://github-readme-stats.vercel.app/api/pin/?username=mughal-scri&repo=Shopping-and-Inventory-Management-System-Cpp-Fundamentals-Project&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/pin/?username=mughal-scri\&repo=Shopping-and-Inventory-Management-System-Cpp-Fundamentals-Project\&theme=tokyonight\&hide_border=true)" />   \</a> \</p>
+<br/>
 
-### 🛠️ Tech Stack
+## 🚀 Featured Projects
 
-\<p align="center">   \<img src="[https://skillicons.dev/icons?i=python,cpp,c,java,git,github,vscode,linux&theme=dark](https://skillicons.dev/icons?i=python,cpp,c,java,git,github,vscode,linux\&theme=dark)" /> \</p>
+| Project | What it is |
+|---|---|
+| [**RubricEye**](https://github.com/mughal-scri/RubricEye) | AI-assisted exam grading platform that reads handwritten answer sheets and grades them against a rubric. |
+| [**Tabi-Planner**](https://github.com/mughal-scri/Tabi-Planner) | A travel itinerary planner for Japan, built with a classmate. |
 
-### 📊 GitHub Analytics
+<br/>
 
-\<p align="center">   \<img height="165" src="[https://github-readme-stats.vercel.app/api?username=mughal-scri&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=mughal-scri\&show_icons=true\&theme=tokyonight\&hide_border=true\&rank_icon=github)" />   \<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=mughal-scri&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=mughal-scri\&layout=compact\&theme=tokyonight\&hide_border=true)" /> \</p>
+## 📊 GitHub Stats
 
-\<p align="center">   \<img src="[https://streak-stats.demolab.com?user=mughal-scri&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=mughal-scri\&theme=tokyonight\&hide_border=true)" /> \</p>
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mughal-scri&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mughal-scri&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</div>
 
-### 🐍 Contribution Journey
+<br/>
 
-\<p align="center">
-&#x20; \<img src="[https://raw.githubusercontent.com/mughal-scri/mughal-scri/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/mughal-scri/mughal-scri/output/github-contribution-grid-snake-dark.svg)" width="100%" alt="Contribution snake animation" />
-\</p>
+## 📫 Let's Connect
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-mughal-me)
 
-\<p align="center">   \<i>Curiosity drives innovation. Keep building. Keep exploring.\</i> \</p>
+<br/>
 
-\<p align="center">   \<a href="[https://github.com/mughal-scri?tab=repositories](https://github.com/mughal-scri?tab=repositories)">Explore my repositories →\</a> \</p>
+<div align="center">
+  <i>"Make it work, make it right, then make it better."</i>
+</div>
 
-\<p align="center">   \<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=90&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:0f2027,50:203a43,100:2c5364\&height=90\&section=footer)" width="100%" /> \</p>
+<!-- Footer banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="Footer banner" />
