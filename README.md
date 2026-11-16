@@ -3,7 +3,7 @@
 
 <!-- Animated typing intro -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=600&lines=BS+Artificial+Intelligence+%40+Air+University;Building+my+foundation+in+Python+for+AI%2FML;Learning+by+building+real+projects;Curious+about+neuro-AI+%26+Brain-Computer+Interfaces" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=600&lines=BS+Artificial+Intelligence+%40+Air+University;Building+my+foundation+in+Python+for+AI%2FML;Learning+by+building+real+projects;Curious+about+neuro-AI+%26+BCI" alt="Typing intro" />
 </div>
 
 <br/>
